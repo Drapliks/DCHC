@@ -8,6 +8,6 @@ git clone https://github.com/pipeseroni/pipes.sh.git
 cd pipes.sh
 sudo make install
 paru -S sublime-text-4 unityhub visual-studio-code-bin heroic-games-launcher
-mv .config ~/
+mv config ~/
 mv wallpaper ~/
 chsh -s /usr/bin/fish
