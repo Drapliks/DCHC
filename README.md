@@ -1,2 +1,2 @@
 # DCHC
-Drapliks Custom Hyprland Config
+Drapliks Hyprland Config
