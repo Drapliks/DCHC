@@ -10,3 +10,5 @@ Optional
 ```
 nvidia nvidia-utils lib32-nvidia-utils
 ```
+# Warning
+I made the config for myself so you may not need some packages, for example: ```unityhub CMATRIX steam```
