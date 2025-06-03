@@ -14,4 +14,6 @@ paru -S sublime-text-4 unityhub visual-studio-code-bin heroic-games-launcher
 cd DCHC
 mv config ~/
 mv wallpaper ~/
+cd
+rm -r DCHC
 chsh -s /usr/bin/fish
