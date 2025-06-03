@@ -1,5 +1,5 @@
 # DCHC
-Drapliks Custom Hyprland Config - with beautiful design, convenient installation with all the necessary packages
+Drapliks Custom Hyprland Config - with beautiful design, convenient installation with all the necessary packages for Arch Linux
 # Before Installation
 Uncomment mulltilib in the ```/etc/pacman.conf``` file
 # Packages
