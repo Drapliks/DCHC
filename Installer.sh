@@ -5,10 +5,13 @@ cd
 git clone https://aur.archlinux.org/paru.git
 cd paru
 makepkg -si
+cd
 git clone https://github.com/pipeseroni/pipes.sh.git
 cd pipes.sh
 sudo make install
+cd
 paru -S sublime-text-4 unityhub visual-studio-code-bin heroic-games-launcher
+cd DCHC
 mv config ~/
 mv wallpaper ~/
 chsh -s /usr/bin/fish
