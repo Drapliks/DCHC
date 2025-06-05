@@ -10,10 +10,10 @@ git clone https://github.com/pipeseroni/pipes.sh.git
 cd pipes.sh
 sudo make install
 cd
-paru -S sublime-text-4 unityhub visual-studio-code-bin heroic-games-launcher qview
+paru -S sublime-text-4 unityhub visual-studio-code-bin heroic-games-launcher qview wine
 cd DCHC
 mv config ~/
 mv wallpaper ~/
 cd
-rm -r DCHC
+rm -rf DCHC
 chsh -s /usr/bin/fish
