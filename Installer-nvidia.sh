@@ -15,5 +15,5 @@ cd DCHC
 mv config ~/
 mv wallpaper ~/
 cd
-rm -r DCHC
+rm -rf DCHC
 chsh -s /usr/bin/fish
