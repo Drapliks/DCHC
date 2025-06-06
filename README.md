@@ -10,6 +10,6 @@ nvidia nvidia-utils lib32-nvidia-utils
 ```
 # Warning
 I made the config for myself so you may not need some packages, for example: ```unityhub cmatrix steam```
-# Screenshots:
-![](screenshots/1.jpg)
-[View more](screenshots.md "screenshots.md")
+# Screenshot:
+![](screenshot.jpg)
+
