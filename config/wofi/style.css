@@ -31,9 +31,7 @@ window {
   margin: 10px 10px;
 }
 
-#entry {
-  border-radius: 0.5rem;
-}
+
 
 #entry:selected {
   background-color: #ffffff;
