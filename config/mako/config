@@ -10,7 +10,7 @@ padding=5,10
 # Border
 #border-color=#ffffff
 border-size=1
-border-radius=5
+#border-radius=5
 # Background
 background-color=#202020
 border-color=#ffffff
