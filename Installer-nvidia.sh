@@ -14,6 +14,7 @@ yay -S sublime-text-4 unityhub visual-studio-code-bin qview wine google-chrome
 cd DCHC
 mv config ~/
 mv wallpaper ~/
+mv music ~/
 cd
 rm -rf DCHC
 chsh -s /usr/bin/fish
