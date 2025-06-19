@@ -6,10 +6,6 @@ git clone https://aur.archlinux.org/yay.git
 cd yay
 makepkg -si
 cd
-git clone https://github.com/pipeseroni/pipes.sh.git
-cd pipes.sh
-sudo make install
-cd
 yay -S sublime-text-4 unityhub visual-studio-code-bin qview wine google-chrome
 cd DCHC
 mv config ~/
