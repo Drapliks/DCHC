@@ -14,4 +14,3 @@ mv music ~/
 cd
 rm -rf DCHC
 chsh -s /usr/bin/fish
-xdg-settings set default-web-browser firefox.desktop
