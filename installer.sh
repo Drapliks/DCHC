@@ -7,9 +7,9 @@ makepkg -si
 cd
 yay -S unityhub visual-studio-code-bin qview wine
 cd DCHC
-mv config ~/
+mv config .config
+rm -rf ~/.config && mv .config ~/
 mv wallpaper ~/
-mv music ~/
 cd
 rm -rf DCHC
 chsh -s /usr/bin/fish
