@@ -9,7 +9,7 @@ nwg-look thunar fastfetch waybar papirus-icon-theme hyprpaper mako wl-clipboard 
 nvidia nvidia-utils
 ```
 # Warning
-I made the config for myself so you may not need some packages, for example: ```unityhub, gnome-boxes, cmus```
+I made the config for myself so you may not need some packages, for example: ```unityhub, gnome-boxes, fastfetch```
 # Screenshot:
 ![](screenshot.jpg)
 
