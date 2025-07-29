@@ -17,8 +17,8 @@
     "terminal",
     "gpu",
     "cpu",
-    "memory",
     "disk",
+    "memory",
     "break",
     "colors"
   ]
