@@ -25,6 +25,6 @@ while True:
             os.system('bash DCHC/components/pipesI.sh')
         os.system('chmod +x ~/DCHC/components/mr.sh')
         os.system('bash DCHC/components/mr.sh')
-	os.system('reboot')
+		os.system('reboot')
     else:
         sys.exit()
