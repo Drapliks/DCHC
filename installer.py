@@ -25,7 +25,8 @@ if act == "1":
     if pipes == "y":
         os.system('chmod +x ~/DCHC/components/pipesI.sh')
         os.system('bash ~/DCHC/components/pipesI.sh')
-    
+    os.system('chmod +x ~/DCHC/components/fish.sh')
+    os.system('bash ~/DCHC/components/fish.sh')
     os.system('chmod +x ~/DCHC/components/mr.sh')
     os.system('bash ~/DCHC/components/mr.sh')
     
