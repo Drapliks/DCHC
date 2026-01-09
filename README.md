@@ -7,4 +7,4 @@ nwg-look fastfetch waybar papirus-icon-theme hyprpaper mako wl-clipboard wl-clip
 # Warning
 I made the config for myself so you may not need some packages, for example: ```unityhub, gnome-boxes, fastfetch```
 # Screenshot:
-![](screenshot.jpg)
+![](screenshot.png)
