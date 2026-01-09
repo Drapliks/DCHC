@@ -1,3 +1,4 @@
 #!/bin/bash
 mv config .config
-mv wallpaper ~/
+mv .config ~/.config
+mv wallpapers ~/
