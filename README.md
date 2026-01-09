@@ -12,6 +12,6 @@ gimp dotnet-sdk unityhub visual-studio-code-bin
 and also an optional package ```pipes.sh```
 
 # Screenshots:
-![](screenshot.png)
+![screenshot](screenshot.png)
 
-![](screenshot2.png)
+![screenshot2](screenshot2.png)
