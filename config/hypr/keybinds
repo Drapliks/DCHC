@@ -1,0 +1,22 @@
+-- System
+SUPER + M - End hyprland session
+SUPER + H - Exec clipboard history
+SUPER + K - Exec keybinds list
+-- Window managment:
+SUPER + C - Close active window
+SUPER + P - pseudo dwindle
+SUPER + J - Toggle split
+SUPER + V - Toggle floating
+F11 - Fullscreen
+-- Base programs:
+SUPER + F - Exec Firefox
+SUPER + Q - Exec terminal
+SUPER + E - Exec File Manager
+SUPER + R - Exec menu
+-- Dev programs:
+SUPER + U - Exec UnityHub
+SUPER + X - Exec Visual Studio Code
+
+
+-- Other:
+Print - Screenshot
