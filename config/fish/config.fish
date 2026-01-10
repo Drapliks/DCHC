@@ -1,4 +1,5 @@
 function fish_greeting
-    fastfetch
-    echo "Welcome to the terminal!"
+	echo "Welcome to the terminal!"    
+	fastfetch
+	echo ""
 end

@@ -3,11 +3,10 @@ import sys
 
 os.system('cd ~/DCHC')
 os.system('clear')
-print("Welcome to DCHC installer!\n\nChoose your action:\n1.Start installer\n2.Exit")
+print("Welcome to DCHC installer!\n1.Start installer\n2.Exit")
 act = input()
 
 if act == "1":
-    zapret = input("Do you want install zapret-discord-youtube?(y/n) ")
     dev = input("Do you want install development programs?(y/n) ")
     pipes = input("Do you want install pipes.sh?(y/n) ")
     
@@ -16,9 +15,6 @@ if act == "1":
     os.system('chmod +x ~/DCHC/components/main.sh')
     os.system('bash ~/DCHC/components/main.sh')
     
-    if zapret == "y":
-        os.system('chmod +x ~/DCHC/components/zapret.sh')
-        os.system('bash ~/DCHC/components/zapret.sh')
     if dev == "y":
         os.system('chmod +x ~/DCHC/components/dev.sh')
         os.system('bash ~/DCHC/components/dev.sh')
